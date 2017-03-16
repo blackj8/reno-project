@@ -65,6 +65,10 @@ div.container {
       float: right;
 }
 
+#more {
+   display: inline-block;
+}
+
 /* search bar-- start */
 .dropdown.dropdown-lg .dropdown-menu {
     margin-top: -1px;
