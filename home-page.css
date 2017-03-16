@@ -59,6 +59,12 @@ div.container {
    text-shadow: 4px 4px #c2c2d6;
 }
 
+#search {
+      display: inline-block;
+      margin-top: 10px;
+      float: right;
+}
+
 /* search bar-- start */
 .dropdown.dropdown-lg .dropdown-menu {
     margin-top: -1px;
